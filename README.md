@@ -1,2 +1,2 @@
 # TypeScript
-- Aprendendo TypeScrip - B'asico
+- Aprendendo TypeScrip - Básico
