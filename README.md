@@ -1,2 +1,0 @@
-# TypeScript
-- Aprendendo TypeScrip - Básico
