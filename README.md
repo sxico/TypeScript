@@ -35,3 +35,5 @@ Valor: number;
 
 Realizada na mesma tela (SP) abaixo dos inputs
 
+<p align="center"><img src="./painelAtualizado.png" alt="Painel Demonstrativo"/></p>
+
