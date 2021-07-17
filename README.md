@@ -9,6 +9,7 @@ yarn install
 ```
 
 ## Executar API
+Processo é executado por padrão na porta 3000 -> localhost:3000
 ```
 yarn run server
 ```
